@@ -1,4 +1,7 @@
 # DPNN_Kidney
+#https://doi.org/10.5281/zenodo.16782208
+
+
 
 The growing prevalence of malignant kidney tumors poses significant challenges in patient care, particularly in accurate classification and treatment. 
 Traditional computer-aided diagnostics, such as percutaneous needle biopsy, considered the gold standard, can pose risks and introduce internal heterogeneity. 
